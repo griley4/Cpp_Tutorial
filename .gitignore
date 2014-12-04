@@ -4,5 +4,8 @@
 !src/
 !bin/
 !include/
+!src/*
+!bin/*
+!include/*
 !Makefile
 !.gitignore

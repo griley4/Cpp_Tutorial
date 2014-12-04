@@ -7,5 +7,6 @@
 !src/*
 !bin/*
 !include/*
+!lib/
 !Makefile
 !.gitignore

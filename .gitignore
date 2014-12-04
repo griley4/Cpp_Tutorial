@@ -1,6 +1,8 @@
 # ignore everything in this directory
 *
-#except this file and all *.cpp files
+#except this file and all important dirs
+!src/
+!bin/
+!include/
 
 !.gitignore
-!*.cpp

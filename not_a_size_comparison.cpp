@@ -1,8 +1,8 @@
 #include <iostream>
-
+#include <stdint.h>
 int main(){
-  long number1;
-  long number2;
+  uint64_t number1;
+  uint64_t number2;
   std::cout << "please enter the first nubmer: " ;
   std::cin >> number1;
   std::cout << "please enter the second number: " ;
